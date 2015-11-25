@@ -10,7 +10,6 @@ setup(
     author = "Dave Hall",
     author_email = "dave@etianen.com",
     url = "http://github.com/etianen/django-watson",
-    zip_safe = False,
     packages = [
         "watson",
         "watson.management",
