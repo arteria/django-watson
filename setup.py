@@ -6,7 +6,7 @@ setup(
     name = "django-watson",
     version = "1.1.8",
     description = "Full-text multi-table search application for Django. Easy to install and use, with good performance.",
-    long_description = open(os.path.join(os.path.dirname(__file__), "README.markdown")).read(),
+    long_description = open(os.path.join(os.path.dirname(__file__), "README.md")).read(),
     author = "Dave Hall",
     author_email = "dave@etianen.com",
     url = "http://github.com/etianen/django-watson",
